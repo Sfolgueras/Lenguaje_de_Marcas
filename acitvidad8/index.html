@@ -10,7 +10,8 @@
             <input type="date" id="fname" name="fname" value="">
         </form>
         <form>
-            Elija un fichero:<input type="file" name="Examinar...">
+            Elija un fichero:<button onclick="document.getElementById('getFile').click()">Examinar...</button>
+            <input type='file' id="getFile" style="display:none">
         </form>
         <form>
             <input type="radio" id="html" name="marca" value="AMD">
@@ -61,7 +62,8 @@
                     Elija una hora<input type="time">
                   </form>
                   <form>
-                    Elija un fichero:<input type="file" name="Examinar...">
+                    Elija un fichero:<button onclick="document.getElementById('getFile').click()">Examinar...</button>
+                    <input type='file' id="getFile" style="display:none">
                 </form>
                 <form>
                     <input type="checkbox" id="html" name="Sexo" value="Hombre">
