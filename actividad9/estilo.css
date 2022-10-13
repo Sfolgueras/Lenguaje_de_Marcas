@@ -1,0 +1,19 @@
+h1 {
+    margin-left: 200px;
+}
+#Parte1{
+    height: 100%;
+  width: 16%;
+    float: left;
+}
+#Parte2{
+    height: 100%;
+    width: 84%;
+    float: right;
+}
+
+.columna{
+    float: left;
+    width: 33%;
+    gap: 30px;
+}
