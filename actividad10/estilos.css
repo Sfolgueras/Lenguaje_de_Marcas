@@ -17,6 +17,10 @@ header a{
     background: white;
     float: left;
 }
+
+#imagen{
+    height:50%;
+}
 #derecha{
     float: right;
     width: 25%;
