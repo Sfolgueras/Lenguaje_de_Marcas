@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrama>
+    <mensaje>
+        <remite>
+            <nombre></nombre>
+            <email></email>
+        </remite>
+        <destinatario>
+            <nombre></nombre>
+            <email></email>
+        </destinatario>
+        <asunto></asunto>
+        <texto>
+            <parrafo></parrafo>
+            <parrafo></parrafo>
+        </texto>
+    </mensaje>
+</diagrama>
