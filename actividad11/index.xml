@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<padre>
+<main>
     <hecho atributo="IMB da a conocer el PC">
         <fecha>
             <dia>12</dia>
@@ -21,4 +21,4 @@
             <año>2004</año>
         </fecha>
     </hecho>
-</padre>
+</main>
