@@ -3,6 +3,7 @@
     <datos_empresa>
         <nombre>Equipos Digitales S.L.</nombre>
         <direccion>Av. Valladolid</direccion>
+        <codigo_postal>Madrid 28015</codigo_postal>
         <CIF>Q-9876543</CIF>
         <telefono>91.777.66.88</telefono>
         <fax>91.777.66.99</fax>
