@@ -1,29 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <factura>
-    <datos>
-        <direccion></direccion>
-        <CIF></CIF>
-        <telefono></telefono>
-        <fax></fax>
-        <fecha></fecha>
-        <num_pedido></num_pedido>
-        <forma_pago></forma_pago>    
-    </datos>
+    <datos_empresa>
+        <nombre>Equipos Digitales S.L.</nombre>
+        <direccion>Av. Valladolid</direccion>
+        <CIF>Q-9876543</CIF>
+        <telefono>91.777.66.88</telefono>
+        <fax>91.777.66.99</fax>
+    </datos_empresa>
     <datos_cliente>
-        <numero_cliente></numero_cliente>
-        <nombre></nombre>
-        <direccion_envio></direccion_envio>
-        <poblacion></poblacion>
-        <cod_postal></cod_postal>
-        <provincia></provincia>
+        <numero_cliente>879</numero_cliente>
+        <nombre>Dario Bueno Gutierrez</nombre>
+        <direccion_envio>Av. Oporto nº7 4ºd</direccion_envio>
+        <poblacion>Madrid</poblacion>
+        <cod_postal>28043</cod_postal>
+        <provincia>Madrid</provincia>
     </datos_cliente>
     <datos_factura>
+        <pedido>
+            <ref>MII93000F/8</ref>
+            <descripcion>MICRO PENTUIM IV 300MHZ FB800</descripcion>
+            <cantidad>1</cantidad>
+            <precio>230 eur.</precio>
+            <iva>16,0</iva>
+            <importe>266,80 eur.</importe>
+        </pedido>
+        <pedido>
+            <ref>MB8QDIP4</ref>
+            <descripcion>PLACA BASE QDI P4</descripcion>
+            <cantidad>1</cantidad>
+            <precio>180 eur.</precio>
+            <iva>16,0</iva>
+            <importe>208,80</importe>
+        </pedido>
+        <pedido>
             <ref></ref>
             <descripcion></descripcion>
             <cantidad></cantidad>
             <precio></precio>
             <iva></iva>
             <importe></importe>
+        </pedido>
+        <pedido>
+            <ref></ref>
+            <descripcion></descripcion>
+            <cantidad></cantidad>
+            <precio></precio>
+            <iva></iva>
+            <importe></importe>
+        </pedido>
     </datos_factura>
+    <base_imponible></base_imponible>
+    <cuota_iva></cuota_iva>
     <total_factura></total_factura>
 </factura>
