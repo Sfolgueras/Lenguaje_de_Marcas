@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+    <datos>
+        <direccion></direccion>
+        <CIF></CIF>
+        <telefono></telefono>
+        <fax></fax>
+        <fecha></fecha>
+        <num_pedido></num_pedido>
+        <forma_pago></forma_pago>    
+    </datos>
+    <datos_cliente>
+        <numero_cliente></numero_cliente>
+        <nombre></nombre>
+        <direccion_envio></direccion_envio>
+        <poblacion></poblacion>
+        <cod_postal></cod_postal>
+        <provincia></provincia>
+    </datos_cliente>
+    <datos_factura>
+            <ref></ref>
+            <descripcion></descripcion>
+            <cantidad></cantidad>
+            <precio></precio>
+            <iva></iva>
+            <importe></importe>
+    </datos_factura>
+    <total_factura></total_factura>
+</factura>
