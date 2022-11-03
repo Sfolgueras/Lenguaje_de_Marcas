@@ -33,23 +33,23 @@
             <importe>208,80</importe>
         </pedido>
         <pedido>
-            <ref></ref>
-            <descripcion></descripcion>
-            <cantidad></cantidad>
-            <precio></precio>
-            <iva></iva>
-            <importe></importe>
+            <ref>MEDD512M32</ref>
+            <descripcion>DIMM DDR 512MB 3200</descripcion>
+            <cantidad>2</cantidad>
+            <precio>40 eur.</precio>
+            <iva>16,0</iva>
+            <importe>92,80 eur.</importe>
         </pedido>
         <pedido>
-            <ref></ref>
-            <descripcion></descripcion>
-            <cantidad></cantidad>
-            <precio></precio>
-            <iva></iva>
-            <importe></importe>
+            <ref>HD250GSA7</ref>
+            <descripcion>DISCO DURO 250GB S-ATA 7200</descripcion>
+            <cantidad>4</cantidad>
+            <precio>120 eur.</precio>
+            <iva>16,0</iva>
+            <importe>556,80 eur.</importe>
         </pedido>
     </datos_factura>
-    <base_imponible></base_imponible>
-    <cuota_iva></cuota_iva>
-    <total_factura></total_factura>
+    <base_imponible>970,00</base_imponible>
+    <cuota_iva>155,20</cuota_iva>
+    <total_factura>1125,20 eur.</total_factura>
 </factura>
