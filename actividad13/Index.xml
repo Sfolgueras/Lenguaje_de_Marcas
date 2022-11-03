@@ -2,17 +2,17 @@
 <diagrama>
     <mensaje>
         <remite>
-            <nombre></nombre>
-            <email></email>
+            <nombre>Alfredo Reino</nombre>
+            <email>alf@ibium.com</email>
         </remite>
         <destinatario>
-            <nombre></nombre>
-            <email></email>
+            <nombre>Bill Clinton</nombre>
+            <email>president@whitehouse.gov</email>
         </destinatario>
-        <asunto></asunto>
+        <asunto>Hola Bill</asunto>
         <texto>
-            <parrafo></parrafo>
-            <parrafo></parrafo>
+            <parrafo>¿Hola qué tal? ...</parrafo>
+            <parrafo>...</parrafo>
         </texto>
     </mensaje>
 </diagrama>
