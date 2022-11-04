@@ -6,7 +6,8 @@
 <!ELEMENT de (#PCDATA)>
 <!ELEMENT titulo (#PCDATA)>
 <!ELEMENT contenido (#PCDATA)>
-<!ATTLIST nota dia (23012010) > 
+<!ATTLIST nota dia (CDATA) >
+<!ATTLIST nota hora (CDATA) #REQUIRED> 
 ]>
 <lista_de_notas>
     <nota>
