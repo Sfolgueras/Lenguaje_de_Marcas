@@ -6,7 +6,8 @@
 <!ELEMENT de (#PCDATA)>
 <!ELEMENT titulo (#PCDATA)>
 <!ELEMENT contenido (#PCDATA)>
-<!ATTLIST nota dia CDATA >
+<!ATTLIST nota dia CDATA "">
+<!ATTLIST nota hora CDATA "">
 ]>
 <lista_de_notas>
     <nota>
