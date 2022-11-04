@@ -17,6 +17,9 @@
         <provincia>Madrid</provincia>
     </datos_cliente>
     <datos_factura>
+        <fecha>12-01-2005</fecha>
+        <num_pedido>731</num_pedido>
+        <forma_pago>Efectivo</forma_pago>
         <pedido>
             <ref>MII93000F/8</ref>
             <descripcion>MICRO PENTUIM IV 300MHZ FB800</descripcion>
