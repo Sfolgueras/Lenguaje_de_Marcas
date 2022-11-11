@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-<xs:element name="nota">
-<xs:complexType>
-<xs:sequence>
-    <xs:element name="para" type="xs:string"/>
-    <xs:element name="de" type="xs:string"/>
-    <xs:element name="titulo" type="xs:string"/>
-    <xs:element name="contenido" type="xs:string"/>
-    </xs:sequence>
-  </xs:complexType>
-</xs:element>
-
+<xs:schema xmlns:xs="actividad20/file.xsd">
+<lista_de_notas>
+<nota>
+<para>Pedro</para>
+<de>Laura</de>
+<titulo>Recordatorio</titulo>
+<contenido>A las 7:00 pm en la puerta del teatro </contenido>
+</nota>
+<nota dia="2010-01-23" hora="13:15:00">
+<para>Miguel</para>
+<de>Juan</de>
+<titulo>Informes</titulo>
+<contenido>Te he dejado los informes en el casillero</contenido>
+</nota>
+</lista_de_notas>
 </xs:schema>

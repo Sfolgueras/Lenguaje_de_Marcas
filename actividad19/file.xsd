@@ -1,0 +1,20 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="lista_de_notas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nota" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="para"/>
+              <xs:element type="xs:string" name="de"/>
+              <xs:element type="xs:string" name="titulo"/>
+              <xs:element type="xs:string" name="contenido"/>
+            </xs:sequence>
+            <xs:attribute type="xs:date" name="dia" use="optional"/>
+            <xs:attribute type="xs:time" name="hora" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
