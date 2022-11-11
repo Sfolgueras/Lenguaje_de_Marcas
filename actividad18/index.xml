@@ -2,7 +2,7 @@
 <!DOCTYPE factura [
 <!ELEMENT factura (datos_empresa,datos_cliente,datos_factura)>
 <!ATTLIST factura n_fac ID #REQUIRED>
-<!ELEMENT datos_empresa (nombre,dir,poblacion,provincia,cif,telefono)>
+<!ELEMENT datos_empresa (nombre,dir,poblacion,provincia,cif,telefono,fax)>
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT dir (#PCDATA)>
 <!ELEMENT poblacion (#PCDATA)>
@@ -10,6 +10,7 @@
 <!ELEMENT provincia (#PCDATA)>
 <!ELEMENT cif (#PCDATA)>
 <!ELEMENT telefono EMPTY>
+<!ELEMENT fax EMPTY>
 <!ELEMENT datos_cliente (nombre,dir_env,poblacion,provincia)>
 <!ELEMENT dir_env (#PCDATA)>
 <!ATTLIST datos_cliente n_cli ID #REQUIRED>
@@ -38,6 +39,7 @@
         <provincia>Madrid</provincia> 
         <cif>Q-9876543</cif> 
         <telefono/> 
+        <fax/>
     </datos_empresa> 
     <datos_cliente n_cli="c879"> 
         <nombre>Darío, Bueno Gutiérrez</nombre> 
