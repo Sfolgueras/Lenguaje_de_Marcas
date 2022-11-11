@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="ISO-8859-1"?> 
-<xsd:schema xmlns:xsd="actividad20/file.xsd">
+<xsi:schema xmlns:xsi="actividad20/file.xsd">
 <matricula> 
 <personal> 
 <dni>99223366M</dni> 
@@ -19,4 +19,4 @@
 <tipo_matricula>Matrícula Ordinaria</tipo_matricula>
 </pago>
 </matricula>
-</xsd:schema>
+</xsi:schema>
