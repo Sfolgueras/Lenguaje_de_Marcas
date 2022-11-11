@@ -1,6 +1,6 @@
 <!ELEMENT factura (datos_empresa,datos_cliente,datos_factura)>
 <!ATTLIST factura n_fac ID #REQUIRED>
-<!ELEMENT datos_empresa (nombre,dir,poblacion,provincia,cif,telefono)>
+<!ELEMENT datos_empresa (nombre,dir,poblacion,provincia,cif,telefono,fax)>
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT dir (#PCDATA)>
 <!ELEMENT poblacion (#PCDATA)>
