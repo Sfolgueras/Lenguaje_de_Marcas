@@ -10,26 +10,31 @@
             <table border="1">
                 <tr>
                     <th rowspan="2">Descripción de cada hecho</th>
-                    <th>Fecha</th>
+                    <th colspan="3">Fecha</th>
                 </tr>
-                    
-                <tr>
+                 <tr>
                     <td>Dia</td>
                     <td>Mes</td>
                     <td>Año</td>
-                </tr>
-                <xsl:for-each select="main/hecho">
-                    <tr>
-                        <td><xsl:value-of select="fecha"/></td>
+                 </tr> 
+                 <xsl:for-each select="main/hecho">                    
+                    <tr> 
+                        <td><xsl:value-of select="@atributo"/></td>
+                        
+                        <xsl:for-each select="fecha">
+                        
+                        <td><xsl:value-of select="dia"/></td>
+                        
+                        <td><xsl:value-of select="mes"/></td>
+                       
+                        <td><xsl:value-of select="año"/></td>
+                        
+                    </xsl:for-each>
                     </tr>
-                    <tr>
-                        <td></td>
-                    </tr>
+                    
                 </xsl:for-each>
-            </table>
+            </table> 
         </body>
     </html>
-
-
     </xsl:template>
 </xsl:stylesheet>

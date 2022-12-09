@@ -2,7 +2,7 @@
 <?xml-model href="index.xsd"?>
 <?xml-stylesheet href="index.xsl" type="text/xsl"?>
 <main>
-    <hecho atributo="IMB da a conocer el PC">
+   <hecho atributo="IMB da a conocer el PC">
         <fecha>
             <dia>12</dia>
             <mes>8</mes>
