@@ -15,7 +15,7 @@
             <th>Título</th>
             <th>Artista</th>
             <th>País</th>
-            <th>Compañia<br>discografica</br></th>
+            <th>Compañia<br>discografica</br> </th>
             <th>Precio</th>
             <th>Año de<br>publicación</br></th>
         </tr>
