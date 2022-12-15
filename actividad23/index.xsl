@@ -9,11 +9,11 @@
     <body>
     <table border="1">
         <tr>
-            <th colspan="2">FACTURA nº999</th>
+            <th colspan="6">FACTURA nº999</th>
         </tr>
         <tr>
             <xsl:for-each select="factura/datos_empresa">
-            <td colspan="1,5">
+            <td colspan="5">
                 <xsl:value-of select="nombre"/>
                 <br><xsl:value-of select="direccion"/></br>
                 <xsl:value-of select="codigo_postal"/>
@@ -31,10 +31,10 @@
         </xsl:for-each>           
         </tr>
         <tr>
-            <td colspan="2">Datos CLIENTE</td> 
+            <td colspan="6">Datos CLIENTE</td> 
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="6">
                 <xsl:for-each select="factura/datos_cliente">
                 nº cliente: <xsl:value-of select="numero_cliente"/>
                 <br>Nombre: <xsl:value-of select="nombre"/></br>
