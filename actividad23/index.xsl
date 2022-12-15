@@ -27,9 +27,23 @@
            <br> Fecha: <xsl:value-of select="fecha"/></br>
          <br>Pedido nº<xsl:value-of select="num_pedido"/></br>
          <br>Forma de pago: <xsl:value-of select="forma_pago"/></br>
-        </td>
-
-        </xsl:for-each>            
+        </td>        
+        </xsl:for-each>           
+        </tr>
+        <tr>
+            <td colspan="2">Datos CLIENTE</td> 
+        </tr>
+        <tr>
+            <td colspan="2">
+                <xsl:for-each select="factura/datos_cliente">
+                nº cliente: <xsl:value-of select="numero_cliente"/>
+                <br>Nombre: <xsl:value-of select="nombre"/></br>
+                <br>Direccion de envio: <xsl:value-of select="direccion_envio"/></br>
+                <br>Población: <xsl:value-of select="poblacion"/></br>
+                <br>cod. postal: <xsl:value-of select="cod_postal"/></br>
+                <br>Provincia: <xsl:value-of select="provincia"/></br>
+                </xsl:for-each>
+            </td>
         </tr>
     
     </table>
