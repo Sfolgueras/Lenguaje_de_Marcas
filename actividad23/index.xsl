@@ -13,22 +13,24 @@
         </tr>
         <tr>
             <xsl:for-each select="factura/datos_empresa">
-            <td colspan="4">
-                <xsl:value-of select="nombre"/>
-                <br><xsl:value-of select="direccion"/></br>
-                <br><xsl:value-of select="codigo_postal"/></br>
-                <br>C.I.F.: <xsl:value-of select="CIF"/></br>
-                <br>teléfono: <xsl:value-of select="telefono"/></br>
-                <br>fax: <xsl:value-of select="fax"/></br>
-            </td>
-        </xsl:for-each>
-        <xsl:for-each select="factura/datos_factura">
-        <td colspan="2">
-           <br></br><br> Fecha: <xsl:value-of select="fecha"/></br>
-         <br>Pedido nº<xsl:value-of select="num_pedido"/></br>
-         <br>Forma de pago: <xsl:value-of select="forma_pago"/></br>
-        </td>        
-        </xsl:for-each>           
+                <td colspan="4">
+                    <xsl:value-of select="nombre"/>
+                    <br><xsl:value-of select="direccion"/></br>
+                    <br><xsl:value-of select="codigo_postal"/></br>
+                    <br>C.I.F.: <xsl:value-of select="CIF"/></br>
+                    <br>teléfono: <xsl:value-of select="telefono"/></br>
+                    <br>fax: <xsl:value-of select="fax"/></br>
+                </td>
+                <td>
+                    <xsl:for-each select="factura/datos_factura">
+        
+                        <br></br><br> Fecha: <xsl:value-of select="fecha"/></br>
+                        <br>Pedido nº<xsl:value-of select="num_pedido"/></br>
+                        <br>Forma de pago: <xsl:value-of select="forma_pago"/></br>
+              
+                    </xsl:for-each>
+                </td>
+            </xsl:for-each>
         </tr>
         <tr>
             <td colspan="6">Datos CLIENTE</td> 
