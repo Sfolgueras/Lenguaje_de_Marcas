@@ -45,7 +45,29 @@
                 </xsl:for-each>
             </td>
         </tr>
-    
+        <tr>
+            <td colspan="6">Datos FACTURA</td>
+        </tr>
+        <tr>
+            <td>REF.</td>
+            <td>DESCRIPCIÓN</td>
+            <td>CANT.</td>
+            <td>PRECIO</td>
+            <td>I.V.A.</td>
+            <td>IMPORTE</td>
+        </tr>
+        
+        <xsl:for-each select="factura/datos_factura/pedido">
+        <tr>
+        <td align="right"><xsl:value-of select="ref"/></td>
+        <td><xsl:value-of select="descripcion"/></td>
+        <td><xsl:value-of select="cantidad"/></td>
+        <td><xsl:value-of select="precio"/></td>
+        <td><xsl:value-of select="iva"/></td>
+        <td><xsl:value-of select="importe"/></td>        
+         </tr>
+    </xsl:for-each>
+        
     </table>
     
         
