@@ -75,13 +75,11 @@
         <td colspan="2">% I.V.A.</td>
         <td colspan="2">Cuota I.V.A.</td>
     </tr>
-    <br></br>
     <tr>
-        <xsl:for-each select="factura/base_imponible">
-        <td><xsl:value-of select="."/></td>
-    </xsl:for-each>
+        <td>111</td>
     </tr>
-    </table>         
+</table> 
+   
     </body>
     </html>
     </xsl:template> 
