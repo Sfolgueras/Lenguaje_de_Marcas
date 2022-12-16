@@ -21,16 +21,17 @@
                     <br>teléfono: <xsl:value-of select="telefono"/></br>
                     <br>fax: <xsl:value-of select="fax"/></br>
                 </td>
-                <td>
-                    <xsl:for-each select="factura/datos_factura">
-        
-                        <br></br><br> Fecha: <xsl:value-of select="fecha"/></br>
+                </xsl:for-each>
+                
+                
+                <td colspan="2">
+                    <xsl:for-each select="factura/datos_factura">       
+                       <br></br><br> Fecha: <xsl:value-of select="fecha"/></br>
                         <br>Pedido nº<xsl:value-of select="num_pedido"/></br>
-                        <br>Forma de pago: <xsl:value-of select="forma_pago"/></br>
-              
+                        <br>Forma de pago: <xsl:value-of select="forma_pago"/></br>              
                     </xsl:for-each>
                 </td>
-            </xsl:for-each>
+            
         </tr>
         <tr>
             <td colspan="6">Datos CLIENTE</td> 
