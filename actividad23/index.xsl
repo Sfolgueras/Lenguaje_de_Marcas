@@ -76,7 +76,21 @@
         <td colspan="2">Cuota I.V.A.</td>
     </tr>
     <tr>
-        <td>111</td>
+        <xsl:for-each select="factura/base_imponible">
+            <td colspan="2"><xsl:value-of select="."/></td>
+        </xsl:for-each>       
+            
+            <td colspan="2">16,0</td>       
+       
+            <xsl:for-each select="factura/cuota_iva">
+            <td colspan="2"><xsl:value-of select="."/></td>
+        </xsl:for-each>
+    
+    </tr>
+    <tr>
+        <xsl:for-each select="factura/total_factura">
+            <td colspan="6">TOTAL FACTURA: <xsl:value-of select="."/></td>
+        </xsl:for-each>
     </tr>
 </table> 
    
