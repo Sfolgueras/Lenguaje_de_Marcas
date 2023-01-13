@@ -6,7 +6,6 @@ xmlns:dcterms="http://purl.org/dc/terms/"
 xmlns:atom="http://www.w3.org/2005/Atom" 
 xmlns:media="http://search.yahoo.com/mrss/"
 version="1.0">
-  <xsl:output method="text" indent="yes"/>
   <xsl:template match="/">
   <html lang="en">
     <head>
