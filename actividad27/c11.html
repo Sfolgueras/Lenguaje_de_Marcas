@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <body>
         <h1 align="center">Listado de libros</h1><center>
@@ -11,9 +10,9 @@
             {for $x in doc("portada.xml")/bib/libro 
             return
             <tr>
-            <td>{data($a/titulo)}</td>
-            <td>{data($a/editorial)}</td>
-            <td>{data($a/precio)}</td>
+            <td>{data($x/titulo)}</td>
+            <td>{data($x/editorial)}</td>
+            <td>{data($x/precio)}</td>
             </tr>}
         </table>
         </center>
