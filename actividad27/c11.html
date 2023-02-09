@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+xquery version "1.0";
 <html>
     <body>
         <h1 align="center">Listado de libros</h1><center>
@@ -8,11 +9,12 @@
             <th>Editorial</th>
             <th>Precio</th>
             </tr>
-            {for $x in doc("portada.xml")/bib/libro order by $x return
+            {for $x in doc("portada.xml")/bib/libro 
+            return
             <tr>
-            <td>{data($x/titulo)}</td>
-            <td>{data($x/editorial)}</td>
-            <td>{data($x/precio)}</td>
+            <td>{data($a/titulo)}</td>
+            <td>{data($a/editorial)}</td>
+            <td>{data($a/precio)}</td>
             </tr>}
         </table>
         </center>
