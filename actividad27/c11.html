@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html>
 <body>
-<table>
+<h1 align="center">Listado de libros</h1>
+<center>
+<table border ="1">
 <tr>
 <th>Titulo</th>
 <th>Editorial</th>
 <th>Precio</th>
 </tr>
 {
-for $a in doc("Libros.xml")//libro
+for $x in doc("c:\users\usuario\desktop\xquery1.xml")/bib/libro
+order by $x
 return
 <tr>
-<td>{$a /titulo}</td>
-<td>{$a /editorial}</td>
-<td>{$a /precio}</td>
+<td>{data($x/titulo)}</td>
+<td>{data($x/editorial)}</td>
+<td>{data($x/precio)}</td>
 </tr>
 }
 </table>
+</center>
 </body>
 </html>
