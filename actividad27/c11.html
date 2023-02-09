@@ -7,12 +7,14 @@
             <th>Titulo</th>
             <th>Editorial</th>
             <th>Precio</th>
-            </tr>{for $x in doc("portada.xml")/bib/libro order by $x return<tr>
+            </tr>
+            {for $x in doc("portada.xml")/bib/libro order by $x return
+            <tr>
             <td>{data($x/titulo)}</td>
             <td>{data($x/editorial)}</td>
             <td>{data($x/precio)}</td>
-        </tr>}
-    </table>
-    </center>
-</body>
+            </tr>}
+        </table>
+        </center>
+    </body>
 </html>
