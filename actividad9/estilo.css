@@ -18,3 +18,7 @@ h1 {
     width: 20%;
     gap: 30px;
 }
+body {
+    background-image: url("imagenes/cat-wet.gif");
+    background-repeat: repeat;
+  }

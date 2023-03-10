@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+    <servicios>        
+        <servicio>
+            <nombre>Fisioterapia</nombre>
+            <precio>
+                <precio_hora>35€</precio_hora>
+                <bonos>
+                    <bono5>160</bono5>
+                    <bono10>300</bono10>
+                </bonos>
+            </precio>
+            <reserva>previa</reserva>
+            <horario>
+                <dias>Lunes, Martes, Miercoles, Jueves, Viernes</dias>
+                <horas>9:00-13:00, 15:00-19:00</horas>
+            </horario>
+            <empleados>
+                <empleado>Chus</empleado>
+                <empleado>Marga</empleado>
+                <empleado>Silvia</empleado>
+            </empleados>
+        </servicio>
+        
+        <servicio>
+            <nombre>Podología</nombre>
+            <precio>
+                <precio_hora>25€</precio_hora>
+                <bonos>
+                    <bono5>100€</bono5>
+                    <bono10>190€</bono10>
+                </bonos>
+            </precio>
+            <reserva>previa</reserva>
+            <horario>
+                <dias>Lunes, Martes, Miercoles, Jueves, Viernes</dias>
+                <horas>9:00-13:00, 15:00-19:00</horas>
+            </horario>
+            <empleados>
+              <empleado>Joana</empleado>
+            </empleados>
+        </servicio>
+
+        <servicio>
+            <nombre>Psicología</nombre>
+            <precio>
+                <precio_hora>25€</precio_hora>
+                <bonos>
+                    <bono5>220€</bono5>
+                    <bono10>400€</bono10>
+                </bonos>
+            </precio>
+            <reserva>previa</reserva>
+            <horario>
+                <dias>Lunes, Martes, Miercoles, Jueves, Viernes</dias>
+                <horas>9:00-13:00, 15:00-19:00</horas>
+            </horario>
+            <empleados>
+                <empleado>Aina</empleado>
+            </empleados>
+        </servicio>
+
+        <servicio>
+            <nombre>Yoga</nombre>
+            <precio>
+                <precio_mensual>25€</precio_mensual>
+            </precio>
+            <plazas>20</plazas>
+            <horario>
+                <dias> lunes, miércoles, viernes</dias>
+                <horas>11:00-12:30, 17:00-18:30</horas>
+            </horario>
+            <empleados>
+                <empleado>Biel</empleado>
+                <empleado>Alex</empleado>
+            </empleados>
+        </servicio>
+
+        <servicio>
+            <nombre>Pilates</nombre>
+            <precio>
+                <precio_mensual>30€</precio_mensual>
+            </precio>
+            <plazas>25</plazas>
+            <horario>
+                <dias>Martes, Jueves, Viernes</dias>
+                <horarios>10:00-11:30, 16:00-17:30</horarios>
+            </horario>
+            <empleados>
+                <empleado>Tolo</empleado>
+            </empleados>
+        </servicio>
+
+        <servicio>
+            <nombre>Meditación guiada</nombre>
+            <precio>
+                <precio_mensual>35€</precio_mensual>
+            </precio>
+            <plazas>10</plazas>
+            <horario>
+                <dias>Lunes, Martes, Miércoles, Jueves, Viernes</dias>
+                <horarios>10:00-11:00, 19:00-20:00</horarios>
+            </horario>
+            <empleados>
+                <empleado>Biel</empleado>
+                <empleado>Alex</empleado>
+            </empleados>
+          </servicio>       
+    </servicios>
