@@ -22,9 +22,12 @@
             </td>
             <td><xsl:value-of select="precio/bonos/bono5"/></td>
             <td><xsl:value-of select="precio/bonos/bono10"/></td>
-            <td><xsl:value-of select="reserva"/></td>
             <td>
-                <xsl:value-of select="horario/dias"/>" "
+                <xsl:value-of select="reserva"/>
+                <xsl:value-of select="plazas"/>
+            </td>
+            <td>
+                <xsl:value-of select="horario/dias"/> 
                 <xsl:value-of select="horario/horas"/></td>
             <td>
               <xsl:for-each select="empleados/empleado">
