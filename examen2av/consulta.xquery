@@ -9,7 +9,8 @@ for $servicio in doc("portada.xml")/servicios/servicio[empleados/empleado = $nom
 let $nombre_servicio := $servicio/nombre/text()
 (:for para recorrer todas las etiquetas horario dentro de servicio:)
 for $horario in $servicio/horario
-(:for para recorrer todas las etiquetas dias dentro de horario, el tokenize sirve para separar el texto por comas:)
+(:for para recorrer todas las etiquetas dias dentro de horario, el tokenize sirve para separar el texto por comas
+el uso de tokenize lo he encontrado aquí:https://stackoverflow.com/questions/4929322/split-comma-separated-string-in-xquery:)
 for $dia in tokenize($horario/dias, ", ")
 (:for para recorrer los valores de todas las etiquetas horas dentro de horario:)
 for $hora in tokenize($horario/horas, ", ")
