@@ -9,7 +9,7 @@
           <th>Precio</th>
           <th>Bono 5</th>
           <th>Bono 10</th>
-          <th>Reserva</th>
+          <th>Reserva/Plazas</th>
           <th>Horario</th>
           <th>Empleados</th>
         </tr>
@@ -27,7 +27,9 @@
                 <xsl:value-of select="plazas"/>
             </td>
             <td>
-                <xsl:value-of select="horario/dias"/> 
+                <xsl:value-of select="horario/dias"/>
+                <!--el xsl:text solo lo uso para que me haga un hueco entre dias y horas-->
+                <xsl:text> </xsl:text> 
                 <xsl:value-of select="horario/horas"/></td>
             <td>
               <xsl:for-each select="empleados/empleado">
