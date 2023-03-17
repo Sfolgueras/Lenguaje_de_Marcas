@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<!DOCTYPE rss [
+    <!ENTITY nbsp "entity-value">
+]>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Portada // marca</title>
+        <link>http://www.marca.com</link>
+        <description>Portada // marca</description>
+        <language>es</language>
+        <copyright>(c) 2023, Unidad Editorial, S.A.</copyright>
+        <pubDate>Thu, 16 Mar 2023 20:07:46 +0100</pubDate>
+        <lastBuildDate>Thu, 16 Mar 2023 20:07:46 +0100</lastBuildDate>
+        <category>News and Politics</category>
+        <ttl>60</ttl>
+        <atom:link href="https://e00-marca.uecdn.es/rss/portada.xml" rel="self"
+            type="application/rss+xml" />
+        <image>
+            <title>Portada // marca</title>
+            <url>http://estaticos.marca.com/imagen/canalima144.gif</url>
+            <link>https://www.marca.com</link>
+            <width>144</width>
+            <height>24</height>
+            <description>marca.com</description>
+        </image>
+        <item>
+            <title>¡Laporta recontrató a Negreira!</title>
+            <description>El actual máximo mandatario culé retomó los pagos al ex colegiado dos años
+                después de acceder a la presidencia del club&nbsp;<a
+                    href="https://www.marca.com/futbol/barcelona/2023/03/16/641328b646163f09518b45cf.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>LUIS F. ROJO</dc:creator>
+            <link>https://www.marca.com/futbol/barcelona/2023/03/16/641328b646163f09518b45cf.html</link>
+            <category>FC Barcelona</category>
+            <category>Joan Laporta</category>
+            <media:description type="html">El actual máximo mandatario culé retomó los pagos al ex
+                colegiado dos años después de acceder a la presidencia del club</media:description>
+            <media:title type="html">FC BARCELONA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789900194465.jpg"
+                medium="image" width="1080" height="1080" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789900194465_150x0.jpg"
+                width="150" height="150" />
+            <media:text>Joan Laporta, en una comparecencia pública.</media:text>
+            <media:credit role="author">EFE</media:credit>
+            <media:content type="videofile" idKaltura="0_pfvd7m1q"
+                url="https://videos.marca.com/v/0_pfvd7m1q-laporta-a-sus-capitanes-algunos-sinverguenzas-quieren-ensuciar-nuestro-escudo-con-mala-fe" />
+            <guid>https://www.marca.com/futbol/barcelona/2023/03/16/641328b646163f09518b45cf.html</guid>
+            <pubDate>Thu, 16 Mar 2023 16:37:27 +0100</pubDate>
+        </item>
+        <item>
+            <title>"No hay que esconderse ni ir de víctimas"</title>
+            <description>El presidente de LaLiga, que no habla con Laporta desde noviembre, vuelve a
+                pedir explicaciones por el &#039;caso Negreira&#039;&nbsp;<a
+                    href="https://www.marca.com/futbol/barcelona/2023/03/16/64135c55e2704e28888b45c6.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>L. F. ROJO</dc:creator>
+            <link>https://www.marca.com/futbol/barcelona/2023/03/16/64135c55e2704e28888b45c6.html</link>
+            <category>FC Barcelona</category>
+            <category>Caso Negreira</category>
+            <media:description type="html">El presidente de LaLiga, que no habla con Laporta desde
+                noviembre, vuelve a pedir explicaciones por el &#039;caso Negreira&#039;</media:description>
+            <media:title type="html">TEBAS</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789930351690.jpg"
+                medium="image" width="1080" height="1080" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789930351690_150x0.jpg"
+                width="150" height="150" />
+            <media:text>Tebas, en una imagen de archivo.</media:text>
+            <media:credit role="author">EFE</media:credit>
+            <guid>https://www.marca.com/futbol/barcelona/2023/03/16/64135c55e2704e28888b45c6.html</guid>
+            <pubDate>Thu, 16 Mar 2023 19:41:57 +0100</pubDate>
+        </item>
+        <item>
+            <title>Alonso tumba las acusaciones de plagio</title>
+            <description>Fernando responde a MARCA sobre las puntos que tiran abajo las
+                insinuaciones y chanzas de Red Bull, sobre el plagio que puede haber en el
+                AMR23&nbsp;<a
+                    href="https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/641349b9e2704e000a8b45ba.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>MARCO CANSECO</dc:creator>
+            <link>
+                https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/641349b9e2704e000a8b45ba.html</link>
+            <category>Motor</category>
+            <category>fórmula 1</category>
+            <category>Aston Martin Racing</category>
+            <category>Fernando Alonso</category>
+            <category>Red Bull Racing</category>
+            <category>Mercedes GP</category>
+            <category>Helmut Marko</category>
+            <media:description type="html">Fernando responde a MARCA sobre las puntos que tiran
+                abajo las insinuaciones y chanzas de Red Bull, sobre el plagio que puede haber en el
+                AMR23</media:description>
+            <media:title type="html">GP ARABIA SAUDI F1</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789901454204.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789901454204_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/641349b9e2704e000a8b45ba.html</guid>
+            <pubDate>Thu, 16 Mar 2023 17:54:52 +0100</pubDate>
+        </item>
+        <item>
+            <title>Cásting cerrado: los 25 elegidos para la nueva lista de Luis de la Fuente</title>
+            <description>&nbsp;<a
+                    href="https://www.marca.com/futbol/seleccion/2023/03/16/6411a821268e3ecc4c8b4588.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>ÁLVARO ROCA</dc:creator>
+            <link>https://www.marca.com/futbol/seleccion/2023/03/16/6411a821268e3ecc4c8b4588.html</link>
+            <media:description type="html">&lt;strong&gt;&lt;a
+                href=&quot;https://www.marca.com/futbol/seleccion/2023/03/10/640b1630ca4741172f8b4599.html&quot;
+                target=&quot;_blank&quot;&gt;Se acabó el cásting. Luis de la Fuente
+                &lt;/a&gt;&lt;/strong&gt;ya conoce la o</media:description>
+            <media:title type="html">SELECCIÓN ESPAÑOLA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789931713434.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789931713434_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>https://www.marca.com/futbol/seleccion/2023/03/16/6411a821268e3ecc4c8b4588.html</guid>
+            <pubDate>Thu, 16 Mar 2023 15:38:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Lío en Indian Wells: "Pensaba que ella sabía que no podía hacer estas cosas"</title>
+            <description>El circuito masculino y femenino prohíbe las banderas de Rusia y
+                Bielorrusia por la guerra en Ucrania&nbsp;<a
+                    href="https://www.marca.com/tenis/indian-wells/2023/03/16/6413354d46163f68368b45a8.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>JOAN SOLSONA</dc:creator>
+            <link>https://www.marca.com/tenis/indian-wells/2023/03/16/6413354d46163f68368b45a8.html</link>
+            <category>tenis</category>
+            <category>Polideportivo</category>
+            <category>Indian Wells</category>
+            <category>En femenino</category>
+            <media:description type="html">El circuito masculino y femenino prohíbe las banderas de
+                Rusia y Bielorrusia por la guerra en Ucrania</media:description>
+            <media:title type="html">INDIAN WELLS</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789799723348.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789799723348_150x0.jpg"
+                width="150" height="100" />
+            <media:text>La rusa Potapova, con la camiseta del Spartak de Moscú</media:text>
+            <guid>https://www.marca.com/tenis/indian-wells/2023/03/16/6413354d46163f68368b45a8.html</guid>
+            <pubDate>Thu, 16 Mar 2023 16:27:39 +0100</pubDate>
+        </item>
+        <item>
+            <title>David Sánchez y la suerte del Madrid en el sorteo de Champions: "No hay duda, lo
+                más flojos"</title>
+            <description>Directo en el &lt;strong&gt;&lt;a
+                href=&quot;https://www.twitch.tv/diarioMARCA&quot;
+                target=&quot;_blank&quot;&gt;canal de Twitch de MARCA&lt;/a&gt;&lt;/strong&gt; de
+                12h a 13h de lunes a jueves&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/16/64130d28268e3e247e8b4575.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/16/64130d28268e3e247e8b4575.html</link>
+            <category>Champions League</category>
+            <category>Real Madrid</category>
+            <media:description type="html">Directo en el &lt;strong&gt;&lt;a
+                href=&quot;https://www.twitch.tv/diarioMARCA&quot;
+                target=&quot;_blank&quot;&gt;canal de Twitch de MARCA&lt;/a&gt;&lt;/strong&gt; de
+                12h a 13h de lunes a jueves</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789702432931.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789702432931_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_5auf7rpw"
+                url="https://videos.marca.com/v/0_5auf7rpw-sorteo-cuartos-de-final-champions-league-dos-cocos-para-el-real-madrid" />
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/16/64130d28268e3e247e8b4575.html</guid>
+            <pubDate>Thu, 16 Mar 2023 13:39:18 +0100</pubDate>
+        </item>
+        <item>
+            <title>Sainz no se corta: "Me sorprende a veces cómo se intenta desestabilizar"</title>
+            <description>Carlos, tranquilo pese a los rumores de marejada en Maranello, y con ganas
+                de mejorar el cuarto de Bahréin en uno de sus circuitos favoitos, Jeddah&nbsp;<a
+                    href="https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/6413270122601daf588b4578.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>MARCO CANSECO</dc:creator>
+            <link>
+                https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/6413270122601daf588b4578.html</link>
+            <category>Motor</category>
+            <category>fórmula 1</category>
+            <category>Carlos Sainz Jr</category>
+            <category>Scuderia Ferrari</category>
+            <media:description type="html">Carlos, tranquilo pese a los rumores de marejada en
+                Maranello, y con ganas de mejorar el cuarto de Bahréin en uno de sus circuitos
+                favoitos, Jeddah</media:description>
+            <media:title type="html">GP ARABIA SAUDI F1</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789817871459.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789817871459_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Carlos Sainz, durante la rueda de prensa de hoy en Jeddah.</media:text>
+            <guid>
+                https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/6413270122601daf588b4578.html</guid>
+            <pubDate>Thu, 16 Mar 2023 16:02:41 +0100</pubDate>
+        </item>
+        <item>
+            <title>Ingebrigtsen lo vuelve a hacer y Michael Johnson no se corta: "¿Hay otros atletas
+                actuales con su arrogancia?"</title>
+            <description>El exvelocista, cuádruple campeón olímpico, contesta así a unas palabras
+                del noruego en las que dijo que &quot;mi objetivo principal es convertirme en el
+                mejor corredor que jamás haya existido&quot;&nbsp;<a
+                    href="https://www.marca.com/atletismo/2023/03/16/6412fb4222601d8b7b8b4576.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>B. F.</dc:creator>
+            <link>https://www.marca.com/atletismo/2023/03/16/6412fb4222601d8b7b8b4576.html</link>
+            <category>atletismo</category>
+            <category>Polideportivo</category>
+            <media:description type="html">El exvelocista, cuádruple campeón olímpico, contesta así
+                a unas palabras del noruego en las que dijo que &quot;mi objetivo principal es
+                convertirme en el mejor corredor que jamás haya existido&quot;</media:description>
+            <media:title type="html">ATLETISMO</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789643587622.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789643587622_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>https://www.marca.com/atletismo/2023/03/16/6412fb4222601d8b7b8b4576.html</guid>
+            <pubDate>Thu, 16 Mar 2023 12:20:27 +0100</pubDate>
+        </item>
+        <item>
+            <title>El March Madness del fútbol europeo: Madrid y Barça, en la Iberia Oriental</title>
+            <description>¿Qué pasaría si el gran torneo del baloncesto universitario estadounidense
+                se celebrase en Europa con clubes de fútbol?&nbsp;<a
+                    href="https://www.marca.com/futbol/futbol-internacional/2023/03/16/6410c9f222601dbf6b8b4591.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>DAVID SÁNCHEZ R.</dc:creator>
+            <link>
+                https://www.marca.com/futbol/futbol-internacional/2023/03/16/6410c9f222601dbf6b8b4591.html</link>
+            <category>fútbol</category>
+            <category>Fútbol Internacional</category>
+            <media:description type="html">¿Qué pasaría si el gran torneo del baloncesto
+                universitario estadounidense se celebrase en Europa con clubes de fútbol?</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789717512850.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789717512850_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/futbol/futbol-internacional/2023/03/16/6410c9f222601dbf6b8b4591.html</guid>
+            <pubDate>Thu, 16 Mar 2023 06:54:29 +0100</pubDate>
+        </item>
+        <item>
+            <title>3 goles en 3 minutos y 24 segundos: el vídeo sin cortes que es historia</title>
+            <description>Partidazo de Gift Orban en la Conference League&nbsp;<a
+                    href="https://www.marca.com/futbol/conference-league/2023/03/16/6412dc7d268e3e344b8b45db.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/conference-league/2023/03/16/6412dc7d268e3e344b8b45db.html</link>
+            <category>Conference League</category>
+            <category>Fútbol Internacional</category>
+            <media:description type="html">Partidazo de Gift Orban en la Conference League</media:description>
+            <media:title type="html">CONFERENCE LEAGUE</media:title>
+            <media:content type="videofile" idKaltura="0_1wa9q2s9"
+                url="https://videos.marca.com/v/0_1wa9q2s9-conference-league-vuelta-octavos-de-final-resumen-y-goles-del-istanbul-bb-1-4-gante" />
+            <guid>
+                https://www.marca.com/futbol/conference-league/2023/03/16/6412dc7d268e3e344b8b45db.html</guid>
+            <pubDate>Thu, 16 Mar 2023 10:15:35 +0100</pubDate>
+        </item>
+        <item>
+            <title>Sergio Ibáñez, el judoka con un 79% de discapacidad visual que gana medallas a
+                videntes</title>
+            <description>El subcampeón paralímpico en Tokio 2020 lleva años alternando el judo
+                paralímpico con el convencional&nbsp;<a
+                    href="https://www.marca.com/paralimpicos/2023/03/16/641200a8ca47415c7f8b45b4.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>ALMUDENA RIVERA, RODOLFO ESPINOSA</dc:creator>
+            <link>https://www.marca.com/paralimpicos/2023/03/16/641200a8ca47415c7f8b45b4.html</link>
+            <category>Juegos Paralímpicos</category>
+            <category>Polideportivo</category>
+            <media:description type="html">El subcampeón paralímpico en Tokio 2020 lleva años
+                alternando el judo paralímpico con el convencional</media:description>
+            <media:title type="html">PARALÍMPICOS</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789574454081.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789574454081_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Sergio Ibáñez posa para MARCA en el CAR de Madrid.</media:text>
+            <media:credit role="author">FOTOS Y VÍDEO: RODOLFO ESPINOSA</media:credit>
+            <media:content type="videofile" idKaltura="0_moj508km"
+                url="https://videos.marca.com/v/0_moj508km-sergio-ibanez-el-judoca-que-derriba-barreras" />
+            <guid>https://www.marca.com/paralimpicos/2023/03/16/641200a8ca47415c7f8b45b4.html</guid>
+            <pubDate>Thu, 16 Mar 2023 10:03:01 +0100</pubDate>
+        </item>
+        <item>
+            <title>Agotada la camiseta Motomami del Barça a un precio de 1.999,99 euros</title>
+            <description>Eran 22 unidades a un precio de 1.999,99 euros&nbsp;<a
+                    href="https://www.marca.com/futbol/barcelona/2023/03/16/6412e931ca4741441e8b456d.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>M. CARMEN TORRES</dc:creator>
+            <link>https://www.marca.com/futbol/barcelona/2023/03/16/6412e931ca4741441e8b456d.html</link>
+            <category>FC Barcelona</category>
+            <category>Rosalía</category>
+            <media:description type="html">Eran 22 unidades a un precio de 1.999,99 euros</media:description>
+            <media:title type="html">FC BARCELONA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789710136697.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789710136697_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>https://www.marca.com/futbol/barcelona/2023/03/16/6412e931ca4741441e8b456d.html</guid>
+            <pubDate>Thu, 16 Mar 2023 11:23:08 +0100</pubDate>
+        </item>
+        <item>
+            <title>Un espía del KGB afirma que Vladímir Putin usa un doble y aporta pruebas</title>
+            <description>Sergei Zhirnov es el último en lanzar la teoría del doble del presidente
+                ruso&nbsp;<a
+                    href="https://www.marca.com/tiramillas/actualidad/2023/03/16/641342ee46163f4a768b4577.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/tiramillas/actualidad/2023/03/16/641342ee46163f4a768b4577.html</link>
+            <category>Tiramillas</category>
+            <category>Actualidad</category>
+            <category>Vladimir Putin</category>
+            <media:description type="html">Sergei Zhirnov es el último en lanzar la teoría del doble
+                del presidente ruso</media:description>
+            <media:title type="html">ACTUALIDAD</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789844272574.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789844272574_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/tiramillas/actualidad/2023/03/16/641342ee46163f4a768b4577.html</guid>
+            <pubDate>Thu, 16 Mar 2023 17:31:34 +0100</pubDate>
+        </item>
+        <item>
+            <title>Informe del Pentágono: una nave extraterrestre envía sondas para estudiar los
+                planetas del Sistema Solar</title>
+            <description>Según un informe preliminar publicado por el Pentágono&nbsp;<a
+                    href="https://www.marca.com/tiramillas/actualidad/2023/03/16/64133280268e3ee9418b45b5.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/tiramillas/actualidad/2023/03/16/64133280268e3ee9418b45b5.html</link>
+            <category>Tiramillas</category>
+            <category>NASA</category>
+            <category>Estados Unidos</category>
+            <category>Actualidad</category>
+            <media:description type="html">Según un informe preliminar publicado por el Pentágono</media:description>
+            <media:title type="html">ACTUALIDAD</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789794269251.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789794269251_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Una nave extraterrestre estaría enviando mini sondas para estudiar los
+                planetas de nuestro Sistema Solar</media:text>
+            <guid>
+                https://www.marca.com/tiramillas/actualidad/2023/03/16/64133280268e3ee9418b45b5.html</guid>
+            <pubDate>Thu, 16 Mar 2023 17:45:45 +0100</pubDate>
+        </item>
+        <item>
+            <title>Carmen Alcayde y Canales Rivera podrían tener un romance: "Aquí hay tomate"</title>
+            <description>&#039;Sálvamé&#039; dejó caer una posible relación entre los
+                colaboradores&nbsp;<a
+                    href="https://www.marca.com/tiramillas/television/2023/03/16/64135786ca47412c588b4576.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/tiramillas/television/2023/03/16/64135786ca47412c588b4576.html</link>
+            <category>Tiramillas</category>
+            <category>Televisión</category>
+            <category>Telecinco</category>
+            <category>Sálvame</category>
+            <media:description type="html">&#039;Sálvamé&#039; dejó caer una posible relación entre
+                los colaboradores</media:description>
+            <media:title type="html">TELEVISIÓN</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789897391986.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789897391986_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/tiramillas/television/2023/03/16/64135786ca47412c588b4576.html</guid>
+            <pubDate>Thu, 16 Mar 2023 18:57:27 +0100</pubDate>
+        </item>
+        <item>
+            <title>Shakira podría interponer una dura demanda contra Anuel AA</title>
+            <description>La cantante colombiana no se habría tomado muy bien la última canción del
+                puertorriqueño&nbsp;<a
+                    href="https://www.marca.com/tiramillas/musica/2023/03/15/64120d1aca4741c1678b458a.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>https://www.marca.com/tiramillas/musica/2023/03/15/64120d1aca4741c1678b458a.html</link>
+            <category>Tiramillas</category>
+            <category>música</category>
+            <category>Shakira Mebarak</category>
+            <media:description type="html">La cantante colombiana no se habría tomado muy bien la
+                última canción del puertorriqueño</media:description>
+            <media:title type="html">MÚSICA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789045786743.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789045786743_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>https://www.marca.com/tiramillas/musica/2023/03/15/64120d1aca4741c1678b458a.html</guid>
+            <pubDate>Wed, 15 Mar 2023 19:27:28 +0100</pubDate>
+        </item>
+        <item>
+            <title>Los 100 mejores regalos para el Día del Padre</title>
+            <description>Sigue aquí una selección con las ideas más originales para sorprender a tu
+                padre en su día especial&nbsp;<a
+                    href="https://www.marca.com/regalos-promociones/2023/03/09/6408892dca474110698b45cc.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>https://www.marca.com/regalos-promociones/2023/03/09/6408892dca474110698b45cc.html</link>
+            <category>Afiliación Amazon</category>
+            <media:description type="html">Sigue aquí una selección con las ideas más originales
+                para sorprender a tu padre en su día especial</media:description>
+            <media:title type="html">BAZAR</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788183631069.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788183631069_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Entre los productos más vendidos estos días en Amazon está el Funko de
+                &apos;El Padrino&apos;.</media:text>
+            <guid>https://www.marca.com/regalos-promociones/2023/03/09/6408892dca474110698b45cc.html</guid>
+            <pubDate>Tue, 14 Mar 2023 19:28:51 +0100</pubDate>
+        </item>
+        <item>
+            <title>"Haaland es la excelencia física"</title>
+            <description>La opinión de José Luis San Martín, ex preparador físico del Real
+                Madrid&nbsp;<a
+                    href="https://www.marca.com/futbol/real-madrid/opinion/2023/03/16/64133ee8268e3e55098b4595.html">
+                Leer</a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>JOSÉ LUIS SAN MARTÍN</dc:creator>
+            <link>
+                https://www.marca.com/futbol/real-madrid/opinion/2023/03/16/64133ee8268e3e55098b4595.html</link>
+            <category>Real Madrid</category>
+            <category>Erling Haaland</category>
+            <category>Manchester City</category>
+            <category>Fútbol Internacional</category>
+            <category>Premier League</category>
+            <media:description type="html">La opinión de José Luis San Martín, ex preparador físico
+                del Real Madrid</media:description>
+            <media:title type="html">OPINIÓN</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789927885226.jpg"
+                medium="image" width="1080" height="1080" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789927885226_150x0.jpg"
+                width="150" height="150" />
+            <media:text>Haaland, celebrando sus cinco goles al Leipzig en la Champions.</media:text>
+            <guid>
+                https://www.marca.com/futbol/real-madrid/opinion/2023/03/16/64133ee8268e3e55098b4595.html</guid>
+            <pubDate>Thu, 16 Mar 2023 18:46:23 +0100</pubDate>
+        </item>
+        <item>
+            <title>"El mejor motor lo tiene Ferrari y luego nosotros"</title>
+            <description>Helmut Marko desvela los datos internos que manejan sobre la potencia de
+                los cuatro suministradores de la F1 en 2022&nbsp;<a
+                    href="https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/6412f04ee2704e4b878b459c.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>MARCO CANSECO</dc:creator>
+            <link>
+                https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/6412f04ee2704e4b878b459c.html</link>
+            <category>Motor</category>
+            <category>fórmula 1</category>
+            <category>Carlos Sainz Jr</category>
+            <category>Red Bull Racing</category>
+            <category>Helmut Marko</category>
+            <category>Max Verstappen</category>
+            <category>Scuderia Ferrari</category>
+            <category>GP Arabia Saudita F1</category>
+            <media:description type="html">Helmut Marko desvela los datos internos que manejan sobre
+                la potencia de los cuatro suministradores de la F1 en 2022</media:description>
+            <media:title type="html">GP ARABIA SAUDI F1</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789744193170.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789744193170_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Carlos Sainz y Charles Leclerc, durante el GP de Bahréin.</media:text>
+            <media:credit role="author">EFE</media:credit>
+            <guid>
+                https://www.marca.com/motor/formula1/gp-arabia-saudi/2023/03/16/6412f04ee2704e4b878b459c.html</guid>
+            <pubDate>Thu, 16 Mar 2023 11:33:10 +0100</pubDate>
+        </item>
+        <item>
+            <title>Un camionero se toma la justicia por la mano arrastrando un Seat Ibiza en plena
+                A4</title>
+            <description>Un camión se ha llevado consigo un Seat Ibiza en la A4, a la altura del
+                kilómetro 13 de la autovía A4. El incidente podría haber sido provocado de forma
+                voluntaria.&nbsp;<a
+                    href="https://www.marca.com/coches-y-motos/coches/2023/03/16/6412bc4b22601dee2f8b4584.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>Ernesto Fonseca</dc:creator>
+            <link>
+                https://www.marca.com/coches-y-motos/coches/2023/03/16/6412bc4b22601dee2f8b4584.html</link>
+            <category>Coches</category>
+            <category>Coches y motos</category>
+            <category>Accidentes tráfico</category>
+            <category>Tráfico</category>
+            <category>DGT</category>
+            <category>Multas DGT</category>
+            <media:description type="html">Un camión se ha llevado consigo un Seat Ibiza en la A4, a
+                la altura del kilómetro 13 de la autovía A4. El incidente podría haber sido
+                provocado de forma voluntaria.</media:description>
+            <media:title type="html">MARCA COCHES</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789492893797.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789492893797_150x0.jpg"
+                width="150" height="100" />
+            <media:text>El coche ha quedado enganchado al camión mientras es arrastrado.</media:text>
+            <media:credit role="author">Twitter.</media:credit>
+            <guid>
+                https://www.marca.com/coches-y-motos/coches/2023/03/16/6412bc4b22601dee2f8b4584.html</guid>
+            <pubDate>Thu, 16 Mar 2023 07:51:26 +0100</pubDate>
+        </item>
+        <item>
+            <title>Sara Khadem: "Sentía que con el hiyab no era yo y quería acabar con esa
+                situación"</title>
+            <description>Ajedrecista de élite, es también símbolo y ejemplo del significado social
+                del depore en la lucha por la libertad del pueblo iraní. Ha inaugurado el MARCA
+                Sports Weekend&nbsp;<a
+                    href="https://www.marca.com/ajedrez/2023/03/16/6412ce88268e3e50438b458f.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>JESÚS J. BOYERO, FERNANDO M. CARREÑO</dc:creator>
+            <link>https://www.marca.com/ajedrez/2023/03/16/6412ce88268e3e50438b458f.html</link>
+            <category>ajedrez</category>
+            <category>Polideportivo</category>
+            <category>En femenino</category>
+            <category>Mundo Marca</category>
+            <category>Sport Weekend</category>
+            <media:description type="html">Ajedrecista de élite, es también símbolo y ejemplo del
+                significado social del depore en la lucha por la libertad del pueblo iraní. Ha
+                inaugurado el MARCA Sports Weekend</media:description>
+            <media:title type="html">ENTREVISTA MARCA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789601392831.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789601392831_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Sara Khadem: &quot;Es duro perder el derecho a regresar&quot;</media:text>
+            <media:credit role="author">Fotos: Marilú Báez</media:credit>
+            <guid>https://www.marca.com/ajedrez/2023/03/16/6412ce88268e3e50438b458f.html</guid>
+            <pubDate>Thu, 16 Mar 2023 10:40:45 +0100</pubDate>
+        </item>
+        <item>
+            <title>Sergio Ramos sufre una nueva lesión con el PSG</title>
+            <description>El ex de Sevilla y Real Madrid no ha podido completar la sesión de
+                entrenamiento&nbsp;<a
+                    href="https://www.marca.com/futbol/liga-francesa/2023/03/16/64134e26268e3e47058b4593.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>R. M.</dc:creator>
+            <link>
+                https://www.marca.com/futbol/liga-francesa/2023/03/16/64134e26268e3e47058b4593.html</link>
+            <category>PSG</category>
+            <category>Selección de Fútbol de España</category>
+            <category>Ligue 1</category>
+            <media:description type="html">El ex de Sevilla y Real Madrid no ha podido completar la
+                sesión de entrenamiento</media:description>
+            <media:title type="html">LIGUE 1 - FRANCIA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789867431132.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789867431132_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Sergio Ramos se lamenta de una ocasión fallada ante el PSG.</media:text>
+            <guid>
+                https://www.marca.com/futbol/liga-francesa/2023/03/16/64134e26268e3e47058b4593.html</guid>
+            <pubDate>Thu, 16 Mar 2023 18:13:31 +0100</pubDate>
+        </item>
+        <item>
+            <title>El robo del Draft está en los Thunder y se llama Jalen Williams</title>
+            <description>El alero está registrando el TS% más elevado en un lapso de 14 partidos por
+                un rookie desde Shaquille O&#039;Neal&nbsp;<a
+                    href="https://www.marca.com/baloncesto/nba/2023/03/16/6412077cca4741113e8b45f4.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>ANTONI PONS</dc:creator>
+            <link>https://www.marca.com/baloncesto/nba/2023/03/16/6412077cca4741113e8b45f4.html</link>
+            <category>NBA</category>
+            <category>baloncesto</category>
+            <category>Oklahoma City Thunder</category>
+            <media:description type="html">El alero está registrando el TS% más elevado en un lapso
+                de 14 partidos por un rookie desde Shaquille O&#039;Neal</media:description>
+            <media:title type="html">NBA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789155589300.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789155589300_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Jalen Williams, en segunda posición en la lista de los mejores rookies de la
+                temporada</media:text>
+            <media:credit role="author">@okcthunder</media:credit>
+            <media:content type="videofile" idKaltura="0_2q6kvdpc"
+                url="https://videos.marca.com/v/0_2q6kvdpc-la-version-mas-playmaker-de-jalen-williams" />
+            <guid>https://www.marca.com/baloncesto/nba/2023/03/16/6412077cca4741113e8b45f4.html</guid>
+            <pubDate>Thu, 16 Mar 2023 16:07:45 +0100</pubDate>
+        </item>
+        <item>
+            <title>Julián Álvarez renueva con el City hasta 2028</title>
+            <description>El club inglés ha hecho oficial la renovación del delantero argentino&nbsp;<a
+                    href="https://www.marca.com/futbol/premier-league/2023/03/16/6413602922601dd45f8b45de.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>DANIEL CAMACHO</dc:creator>
+            <link>
+                https://www.marca.com/futbol/premier-league/2023/03/16/6413602922601dd45f8b45de.html</link>
+            <category>Manchester City</category>
+            <category>Premier League</category>
+            <media:description type="html">El club inglés ha hecho oficial la renovación del
+                delantero argentino</media:description>
+            <media:title type="html">PREMIER LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789913655947.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789913655947_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Julián Alvarez con la camiseta de la renovación</media:text>
+            <guid>
+                https://www.marca.com/futbol/premier-league/2023/03/16/6413602922601dd45f8b45de.html</guid>
+            <pubDate>Thu, 16 Mar 2023 19:32:06 +0100</pubDate>
+        </item>
+        <item>
+            <title>"¿Me jode si no voy al Mundial? Me va a joder, por supuesto... Pero mis valores
+                son antes"</title>
+            <description>La azulgrana habló en Mundo Deportivo tras recibir el premio The Best al
+                mejor once&nbsp;<a
+                    href="https://www.marca.com/futbol/futbol-femenino/2023/03/16/6412da87268e3ef40a8b45f6.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/futbol-femenino/2023/03/16/6412da87268e3ef40a8b45f6.html</link>
+            <category>Fútbol Femenino</category>
+            <media:description type="html">La azulgrana habló en Mundo Deportivo tras recibir el
+                premio The Best al mejor once</media:description>
+            <media:title type="html">FÚTBOL FEMENINO</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789723241470.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789723241470_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Mapi León, con la camiseta de entrenamiento del Barcelona.</media:text>
+            <media:credit role="author">FC BARCELONA</media:credit>
+            <guid>
+                https://www.marca.com/futbol/futbol-femenino/2023/03/16/6412da87268e3ef40a8b45f6.html</guid>
+            <pubDate>Thu, 16 Mar 2023 10:00:39 +0100</pubDate>
+        </item>
+        <item>
+            <title>Carreño se borra del Miami Open y sabrá el martes el alcance de su lesión en el
+                codo derecho</title>
+            <description>El lugar de la rotura en el codo, si es en el músculo o el tendón,
+                determinará el tiempo de baja del asturiano&nbsp;<a
+                    href="https://www.marca.com/tenis/2023/03/16/64135ee1268e3e000e8b4574.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>JOAN SOLSONA</dc:creator>
+            <link>https://www.marca.com/tenis/2023/03/16/64135ee1268e3e000e8b4574.html</link>
+            <category>tenis</category>
+            <category>Polideportivo</category>
+            <category>Pablo Carreño</category>
+            <category>Miami Open</category>
+            <media:description type="html">El lugar de la rotura en el codo, si es en el músculo o
+                el tendón, determinará el tiempo de baja del asturiano</media:description>
+            <media:title type="html">TENIS</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/02/11/16761255439170.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/02/11/16761255439170_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Carreño, durante un partido</media:text>
+            <media:credit role="author">EFE</media:credit>
+            <guid>https://www.marca.com/tenis/2023/03/16/64135ee1268e3e000e8b4574.html</guid>
+            <pubDate>Thu, 16 Mar 2023 19:24:58 +0100</pubDate>
+        </item>
+        <item>
+            <title>Los 'Redsponsables' de Liverpool</title>
+            <description>Los más de dos mil aficionados del conjunto inglés desplazados a Madrid
+                tuvieron un comportamiento ejemplar durante toda la jornada.&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/16/64122e7be2704e2f268b4613.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>JOSÉ LUIS ALLEGUE</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/16/64122e7be2704e2f268b4613.html</link>
+            <category>Champions League</category>
+            <category>Fútbol Internacional</category>
+            <category>Real Madrid</category>
+            <category>Liverpool FC</category>
+            <media:description type="html">Los más de dos mil aficionados del conjunto inglés
+                desplazados a Madrid tuvieron un comportamiento ejemplar durante toda la jornada.</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789455742534.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789455742534_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_sf86zx6k"
+                url="https://videos.marca.com/v/0_sf86zx6k-gran-ambiente-en-las-calles-de-madrid-con-los-aficionados-del-liverpool" />
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/16/64122e7be2704e2f268b4613.html</guid>
+            <pubDate>Thu, 16 Mar 2023 06:45:30 +0100</pubDate>
+        </item>
+        <item>
+            <title>Siguió la batalla: los ultras del Nápoles fueron a buscar a los aficionados del
+                Eintracht a sus hoteles</title>
+            <description>Rompieron el cordón de la policía&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/16/6412e352268e3e550f8b4592.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>J. E.</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/16/6412e352268e3e550f8b4592.html</link>
+            <category>Champions League</category>
+            <category>Nápoles FC</category>
+            <category>Eintracht Frankfurt</category>
+            <media:description type="html">Rompieron el cordón de la policía</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789596492544.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789596492544_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/16/6412e352268e3e550f8b4592.html</guid>
+            <pubDate>Thu, 16 Mar 2023 10:43:14 +0100</pubDate>
+        </item>
+        <item>
+            <title>Álvaro Romero, plata en la Copa del Mundo de Veysonnaz con 19 años</title>
+            <description>El español logra su primer podio absoluto al acabar segundo por detrás del
+                alemán Noerl&nbsp;<a
+                    href="https://www.marca.com/deportes-invierno/2023/03/16/6413219b22601dcb6c8b45b7.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>B. F.</dc:creator>
+            <link>https://www.marca.com/deportes-invierno/2023/03/16/6413219b22601dcb6c8b45b7.html</link>
+            <category>Deportes de Invierno</category>
+            <category>Polideportivo</category>
+            <media:description type="html">El español logra su primer podio absoluto al acabar
+                segundo por detrás del alemán Noerl</media:description>
+            <media:title type="html">SNOWBOARD</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789738757773.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789738757773_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>https://www.marca.com/deportes-invierno/2023/03/16/6413219b22601dcb6c8b45b7.html</guid>
+            <pubDate>Thu, 16 Mar 2023 15:05:10 +0100</pubDate>
+        </item>
+        <item>
+            <title>McGregor irrumpe en UFC 286 y reclama al ganador del Usman vs. Edwards</title>
+            <description>Quiere aspirar al título del peso wélter después de enfrentarse a
+                Chandler&nbsp;<a
+                    href="https://www.marca.com/combates-ufc/2023/03/16/64133da9e2704e29838b458e.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>ENRIQUE MELLADO</dc:creator>
+            <link>https://www.marca.com/combates-ufc/2023/03/16/64133da9e2704e29838b458e.html</link>
+            <category>Polideportivo</category>
+            <category>UFC</category>
+            <category>MMA</category>
+            <category>Conor McGregor</category>
+            <media:description type="html">Quiere aspirar al título del peso wélter después de
+                enfrentarse a Chandler</media:description>
+            <media:title type="html">UFC</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789825210081.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789825210081_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Conor McGregor en el centro, con Usman a la izquierda y Edwards a la
+                derecha.</media:text>
+            <media:content type="videofile" idKaltura="0_tm4jm3rb"
+                url="https://videos.marca.com/v/0_tm4jm3rb-la-brutal-patada-a-la-cabeza-que-fulmino-al-mejor-luchador-de-ufc" />
+            <guid>https://www.marca.com/combates-ufc/2023/03/16/64133da9e2704e29838b458e.html</guid>
+            <pubDate>Thu, 16 Mar 2023 17:56:11 +0100</pubDate>
+        </item>
+        <item>
+            <title>Carolina Marin ya está en cuartos del Abierto All England</title>
+            <description>La española se impuso en dos mangas a la estadounidense Beiwen Zhang por
+                21-13 y 21-18&nbsp;<a
+                    href="https://www.marca.com/otros-deportes/2023/03/16/641329f722601d19158b45d8.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>EFE</dc:creator>
+            <link>https://www.marca.com/otros-deportes/2023/03/16/641329f722601d19158b45d8.html</link>
+            <category>Otros Deportes</category>
+            <category>Polideportivo</category>
+            <media:description type="html">La española se impuso en dos mangas a la estadounidense
+                Beiwen Zhang por 21-13 y 21-18</media:description>
+            <media:title type="html">BÁDMINTON</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789773533325.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789773533325_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>https://www.marca.com/otros-deportes/2023/03/16/641329f722601d19158b45d8.html</guid>
+            <pubDate>Thu, 16 Mar 2023 15:44:49 +0100</pubDate>
+        </item>
+        <item>
+            <title>"El MARCA Sport Weekend 2023, la joya del trabajo en equipo entre deportistas,
+                leyendas y marcas"</title>
+            <description>La gran fiesta del deporte en Málaga reunirá a grandes nombres con los
+                grandes promotores de eventos, las mejores compañías, bajo el manto de la &#039;M
+                roja&#039;&nbsp;<a
+                    href="https://www.marca.com/mundo-marca/sport-weekend/2023/03/16/641305e7268e3e3a548b45ba.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>EUGENIO MUÑOZ FERNÁNDEZ</dc:creator>
+            <link>
+                https://www.marca.com/mundo-marca/sport-weekend/2023/03/16/641305e7268e3e3a548b45ba.html</link>
+            <category>Sport Weekend</category>
+            <category>Mundo Marca</category>
+            <media:description type="html">La gran fiesta del deporte en Málaga reunirá a grandes
+                nombres con los grandes promotores de eventos, las mejores compañías, bajo el manto
+                de la &#039;M roja&#039;</media:description>
+            <media:title type="html">MARCA SPORT WEEKEND</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789675576593.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789675576593_150x0.jpg"
+                width="150" height="100" />
+            <media:text>De izquierda a derecha: Enrique Geijo, Sponsorship Manager de Santander,
+                Rocío Pérez de Sevilla, Directora de Comunicación de LaLiga, Sergio Cobos, Director
+                General Comercial de Unidad Editorial, Nuria de Andrés, Gerente de medios de
+                Telefónica, Juan Ignacio Gallardo, Director del Diario MARCA, Elena Gris, Directora
+                de Marketing de Hyundai, Gema Monjas, Directora de Negocio de MARCA, Leyre Lacasta,
+                Directora de Medios de Iberdrola, Marga Rodríguez, Directora de Publicidad de
+                Hyundai y Jorge Sucena, Director de Marketing de LaRoche Posay.</media:text>
+            <media:credit role="author">JOSÉ A. GARCÍA</media:credit>
+            <guid>
+                https://www.marca.com/mundo-marca/sport-weekend/2023/03/16/641305e7268e3e3a548b45ba.html</guid>
+            <pubDate>Thu, 16 Mar 2023 16:57:31 +0100</pubDate>
+        </item>
+        <item>
+            <title>Los Warriors, camino de desaprovechar al mejor Curry desde 2016</title>
+            <description>El base promedia más de 30 puntos por noche con una efectividad del 50% en
+                tiros de campo, 40% desde el triple y 90% en la línea de personal&nbsp;<a
+                    href="https://www.marca.com/baloncesto/nba/2023/03/16/641343d3268e3ef17e8b45e0.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>EUGENIO MUÑOZ FERNÁNDEZ</dc:creator>
+            <link>https://www.marca.com/baloncesto/nba/2023/03/16/641343d3268e3ef17e8b45e0.html</link>
+            <category>baloncesto</category>
+            <category>NBA</category>
+            <category>Golden State Warriors</category>
+            <category>Stephen Curry</category>
+            <media:description type="html">El base promedia más de 30 puntos por noche con una
+                efectividad del 50% en tiros de campo, 40% desde el triple y 90% en la línea de
+                personal</media:description>
+            <media:title type="html">NBA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789828779486.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789828779486_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Curry, en acción.</media:text>
+            <media:credit role="author">EFE</media:credit>
+            <guid>https://www.marca.com/baloncesto/nba/2023/03/16/641343d3268e3ef17e8b45e0.html</guid>
+            <pubDate>Thu, 16 Mar 2023 17:36:16 +0100</pubDate>
+        </item>
+        <item>
+            <title>Ja Morant casi arruina su carrera por su "conducta peligrosa" en un burdel:
+                "Ahora sé lo que tengo que perder"</title>
+            <description>La NBA sanciona a Morant con ocho partidos por &#039;conducta
+                perjudicial&#039;: publicó un vídeo mostrando una pistola en un club de
+                alterne&nbsp;<a
+                    href="https://www.marca.com/baloncesto/nba/2023/03/16/6412c77322601d29278b4602.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>https://www.marca.com/baloncesto/nba/2023/03/16/6412c77322601d29278b4602.html</link>
+            <category>baloncesto</category>
+            <category>NBA</category>
+            <category>Memphis Grizzlies</category>
+            <category>Ja Morant</category>
+            <media:description type="html">La NBA sanciona a Morant con ocho partidos por
+                &#039;conducta perjudicial&#039;: publicó un vídeo mostrando una pistola en un club
+                de alterne</media:description>
+            <media:title type="html">NBA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789521242116.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789521242116_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Ja Morant tras ser sancionado: &quot;La pistola no era mía y ahora me doy
+                cuenta cuenta de lo que tengo que perder&quot;</media:text>
+            <media:credit role="author">Instagram (@jamorant)</media:credit>
+            <media:content type="videofile" idKaltura="0_kp5ddj7d"
+                url="https://videos.marca.com/v/0_kp5ddj7d-ja-morant-muestra-un-arma-en-su-cuenta-de-instagram-mientras-esta-de-fiesta" />
+            <guid>https://www.marca.com/baloncesto/nba/2023/03/16/6412c77322601d29278b4602.html</guid>
+            <pubDate>Thu, 16 Mar 2023 08:46:17 +0100</pubDate>
+        </item>
+        <item>
+            <title>Algo pasa con Juan Ayuso: "Aún siente dolor, su vuelta podría ser en Romandía"</title>
+            <description>El corredor español aún no ha debutado en esta temporada 2023&nbsp;<a
+                    href="https://www.marca.com/ciclismo/2023/03/16/64120aa8e2704e39258b45cf.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>NACHO LABARGA</dc:creator>
+            <link>https://www.marca.com/ciclismo/2023/03/16/64120aa8e2704e39258b45cf.html</link>
+            <category>Polideportivo</category>
+            <media:description type="html">El corredor español aún no ha debutado en esta temporada
+                2023</media:description>
+            <media:title type="html">CICLISMO</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789047069193.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789047069193_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Juan Ayuso, posando para MARCA tras ser tercero en LaVuelta</media:text>
+            <guid>https://www.marca.com/ciclismo/2023/03/16/64120aa8e2704e39258b45cf.html</guid>
+            <pubDate>Thu, 16 Mar 2023 07:08:55 +0100</pubDate>
+        </item>
+        <item>
+            <title>Gut-Behrami gana la batalla del Supergigante femenino en Andorra</title>
+            <description>La suiza, que partía como segunda en la general, le roba la cartera a la
+                italiana Curtoni, que se bloqueó y se queda sin premio&nbsp;<a
+                    href="https://www.marca.com/deportes-invierno/2023/03/16/6412e97446163fa6578b45dd.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>DIEGO PICÓ</dc:creator>
+            <link>https://www.marca.com/deportes-invierno/2023/03/16/6412e97446163fa6578b45dd.html</link>
+            <media:description type="html">La suiza, que partía como segunda en la general, le roba
+                la cartera a la italiana Curtoni, que se bloqueó y se queda sin premio</media:description>
+            <media:title type="html">DEPORTES DE INVIERNO</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789615480794.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789615480794_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Gut- Behrami llegando a meta.</media:text>
+            <media:credit role="author">EFE</media:credit>
+            <guid>https://www.marca.com/deportes-invierno/2023/03/16/6412e97446163fa6578b45dd.html</guid>
+            <pubDate>Thu, 16 Mar 2023 11:13:54 +0100</pubDate>
+        </item>
+        <item>
+            <title>Tiktokers imitan a Ibai Llanos y crean su propia Velada del Año: la FaMMA League</title>
+            <description>Se sienten desplazados del evento porque los streamers &quot;son un sector
+                más cerrado&quot;&nbsp;<a
+                    href="https://www.marca.com/videojuegos/lo-mas-gaming/2023/03/15/6411cbc5ca474118258b45bf.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>MARIO MARTÍN TURRIÓN</dc:creator>
+            <link>
+                https://www.marca.com/videojuegos/lo-mas-gaming/2023/03/15/6411cbc5ca474118258b45bf.html</link>
+            <category>Videojuegos</category>
+            <category>influencers</category>
+            <media:description type="html">Se sienten desplazados del evento porque los streamers
+                &quot;son un sector más cerrado&quot;</media:description>
+            <media:title type="html">LO + GAMING</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788877384031.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788877384031_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/videojuegos/lo-mas-gaming/2023/03/15/6411cbc5ca474118258b45bf.html</guid>
+            <pubDate>Wed, 15 Mar 2023 14:45:06 +0100</pubDate>
+        </item>
+        <item>
+            <title>El clásico dilema con grandes premios en juego</title>
+            <description>Presupuesto récord para montar la alineación del Barça-Madrid en LaLiga
+                Fantasy MARCA&nbsp;<a
+                    href="https://www.marca.com/laliga-fantasy/2023/03/14/6410d01fca474152638b45cd.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>LOLO BELLTALL RAMOS</dc:creator>
+            <link>https://www.marca.com/laliga-fantasy/2023/03/14/6410d01fca474152638b45cd.html</link>
+            <category>Liga Fantástica</category>
+            <category>LaLiga Fantasy</category>
+            <category>Barcelona-Real Madrid</category>
+            <category>El Clásico</category>
+            <category>FC Barcelona</category>
+            <category>Real Madrid</category>
+            <category>Primera División</category>
+            <category>Liga Española</category>
+            <category>La Liga</category>
+            <media:description type="html">Presupuesto récord para montar la alineación del
+                Barça-Madrid en LaLiga Fantasy MARCA</media:description>
+            <media:title type="html">LALIGA FANTASY MARCA</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788252578749.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788252578749_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Ter Stegen lleva 19 porterías a cero, por seis de Courtois. MARCA</media:text>
+            <guid>https://www.marca.com/laliga-fantasy/2023/03/14/6410d01fca474152638b45cd.html</guid>
+            <pubDate>Tue, 14 Mar 2023 21:31:11 +0100</pubDate>
+        </item>
+        <item>
+            <title>Will Still: sin título de entrenador, 425.000 euros de multa y 17 partidos sin
+                perder</title>
+            <description>Cada partido son 25.000 euros de multa, lo que multiplicado por los 17
+                partidos en Ligue 1 que lleva dirigidos, nos salen un total de 425.000 euros&nbsp;<a
+                    href="https://www.marca.com/apuestas-deportivas/pronosticos/2023/03/15/641183cf22601d9b188b45e3.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/apuestas-deportivas/pronosticos/2023/03/15/641183cf22601d9b188b45e3.html</link>
+            <category>Apuestas Deportivas</category>
+            <category>Pronóstico apuestas</category>
+            <category>Apuestas de fútbol</category>
+            <media:description type="html">Cada partido son 25.000 euros de multa, lo que
+                multiplicado por los 17 partidos en Ligue 1 que lleva dirigidos, nos salen un total
+                de 425.000 euros</media:description>
+            <media:title type="html">LIGUE 1</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788690924695.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788690924695_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/apuestas-deportivas/pronosticos/2023/03/15/641183cf22601d9b188b45e3.html</guid>
+            <pubDate>Wed, 15 Mar 2023 09:42:35 +0100</pubDate>
+        </item>
+        <item>
+            <title>El deportivo español que superaba al Ferrari de su época y podía llevar mandos de
+                oro</title>
+            <description>Sale en Bélgica una unidad a la venta del Pegaso Z-102 que nos recuerda
+                hasta que punto el deportivo español fue el más avanzado y admirado del mundo en su
+                momento.&nbsp;<a
+                    href="https://www.marca.com/coches-y-motos/coches/2023/03/15/6411751d268e3e5e528b459f.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>Carlos Espinosa</dc:creator>
+            <link>
+                https://www.marca.com/coches-y-motos/coches/2023/03/15/6411751d268e3e5e528b459f.html</link>
+            <category>Coches</category>
+            <category>Coches y motos</category>
+            <category>Coches deportivos</category>
+            <category>Motor</category>
+            <media:description type="html">Sale en Bélgica una unidad a la venta del Pegaso Z-102
+                que nos recuerda hasta que punto el deportivo español fue el más avanzado y admirado
+                del mundo en su momento.</media:description>
+            <media:title type="html">MARCA COCHES</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788663218354.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788663218354_150x0.jpg"
+                width="150" height="100" />
+            <media:text>El estilo de los Z-102 carrozados por la propia Pegaso podía resultar un
+                poco tosco, pero no en su frontal..</media:text>
+            <media:credit role="author">Classic Car Service.</media:credit>
+            <guid>
+                https://www.marca.com/coches-y-motos/coches/2023/03/15/6411751d268e3e5e528b459f.html</guid>
+            <pubDate>Wed, 15 Mar 2023 08:55:59 +0100</pubDate>
+        </item>
+        <item>
+            <title>El portero que dejó sin marcar a un niño y que cuenta con más de 4,5 millones de
+                visualizaciones</title>
+            <description>El pequeño jugón no logra marcarle gol al arquero&nbsp;<a
+                    href="https://www.marca.com/futbol/futbol-internacional/2023/03/16/6412c8c7ca4741c1678b45a6.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>NACHO LABARGA</dc:creator>
+            <link>
+                https://www.marca.com/futbol/futbol-internacional/2023/03/16/6412c8c7ca4741c1678b45a6.html</link>
+            <category>Fútbol Internacional</category>
+            <media:description type="html">El pequeño jugón no logra marcarle gol al arquero</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789525680095.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789525680095_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/futbol/futbol-internacional/2023/03/16/6412c8c7ca4741c1678b45a6.html</guid>
+            <pubDate>Thu, 16 Mar 2023 09:24:30 +0100</pubDate>
+        </item>
+        <item>
+            <title>Otra del niño prodigio: con tres años y ya conduce un Ferrari de 1.000 CV</title>
+            <description>Zayn Sofuoglu ha vuelto a incendiar las redes gracias a un vídeo que ha
+                subido a Instagram su padre, Kenan Sofuoglu&nbsp;<a
+                    href="https://videos.marca.com/v/0_dk4qrves-otra-del-nino-prodigio-con-tres-anos-y-ya-conduce-un-ferrari-de-1000-cv?uetv_pl=coches&amp;count=0">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://videos.marca.com/v/0_dk4qrves-otra-del-nino-prodigio-con-tres-anos-y-ya-conduce-un-ferrari-de-1000-cv?uetv_pl=coches&amp;count=0</link>
+            <category>Coches</category>
+            <media:description type="html">Zayn Sofuoglu ha vuelto a incendiar las redes gracias a
+                un vídeo que ha subido a Instagram su padre, Kenan Sofuoglu</media:description>
+            <media:title type="html">MARCA COCHES</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789568631204.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789568631204_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://videos.marca.com/v/0_dk4qrves-otra-del-nino-prodigio-con-tres-anos-y-ya-conduce-un-ferrari-de-1000-cv?uetv_pl=coches&amp;count=0</guid>
+            <pubDate>Thu, 16 Mar 2023 09:55:37 +0100</pubDate>
+        </item>
+        <item>
+            <title>La reacción de Haaland al revelar lo que le dijo Pep tras ser sustituido: "Que no
+                me tenía que haber llevado"</title>
+            <description>En una entrevista con TNT Sports tras el partido contra el RB Leipzig&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/16/6412da9f268e3e344b8b45d0.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/16/6412da9f268e3e344b8b45d0.html</link>
+            <category>Champions League</category>
+            <category>Erling Haaland</category>
+            <category>Manchester City</category>
+            <media:description type="html">En una entrevista con TNT Sports tras el partido contra
+                el RB Leipzig</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789581307410.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789581307410_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_gxwnnyq8"
+                url="https://videos.marca.com/v/0_gxwnnyq8-la-reaccion-de-haaland-entre-risas-al-revelar-lo-que-le-dijo-pep-tras-ser-sustituido" />
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/16/6412da9f268e3e344b8b45d0.html</guid>
+            <pubDate>Thu, 16 Mar 2023 10:04:03 +0100</pubDate>
+        </item>
+        <item>
+            <title>Caos antes del Nápoles-Eintracht: graves incidentes y guerrilla entre ultras y la
+                policía</title>
+            <description>Los radicales de ambos equipos se enfrentan antes del partido de esta
+                noche&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/15/6411f4dd268e3ee50b8b458b.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/15/6411f4dd268e3ee50b8b458b.html</link>
+            <category>Champions League</category>
+            <media:description type="html">Los radicales de ambos equipos se enfrentan antes del
+                partido de esta noche</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content type="videofile" idKaltura="0_4de2zeaz"
+                url="https://videos.marca.com/v/0_4de2zeaz-caos-en-napoles-guerrilla-entre-ultras-del-eintracht-y-la-policia" />
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788996242493.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788996242493_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Los bomberos tuvieron que apagar un coche en llamas,.</media:text>
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/15/6411f4dd268e3ee50b8b458b.html</guid>
+            <pubDate>Wed, 15 Mar 2023 17:57:53 +0100</pubDate>
+        </item>
+        <item>
+            <title>Guardiola y el cambio: "Debe ser un motivo extra para superar el récord de Messi"</title>
+            <description>&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/15/64110298e2704e5b788b45aa.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>JAIME RINCÓN</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/15/64110298e2704e5b788b45aa.html</link>
+            <category>Champions League</category>
+            <category>Pep Guardiola</category>
+            <media:description type="html">Pep Guardiola se rindió a la gran noche de Haaland y
+                restó importancia al hecho de sustituir al noruego cuando todavía quedaba media hora
+                de partido. </media:description>
+            <media:title type="html">CHAMPIONS</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788933556860.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788933556860_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/15/64110298e2704e5b788b45aa.html</guid>
+            <pubDate>Wed, 15 Mar 2023 00:28:19 +0100</pubDate>
+        </item>
+        <item>
+            <title>La rajada de Medvedev en pleno partido: "Qué vergüenza llamar pista dura a esto"</title>
+            <description>El ruso se repuso a una torcedura de tobillo para remontar ante Zverev un
+                duelo que comenzó perdiendo&nbsp;<a
+                    href="https://www.marca.com/tenis/indian-wells/2023/03/15/64115ffde2704e39168b45c9.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>https://www.marca.com/tenis/indian-wells/2023/03/15/64115ffde2704e39168b45c9.html</link>
+            <category>tenis</category>
+            <category>Indian Wells</category>
+            <category>Daniil Medvedev</category>
+            <media:description type="html">El ruso se repuso a una torcedura de tobillo para
+                remontar ante Zverev un duelo que comenzó perdiendo</media:description>
+            <media:title type="html">INDIAN WELLS</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788603775542.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788603775542_150x0.jpg"
+                width="150" height="100" />
+            <media:text>Daniil Medvedev, con problemas en el tobillo en su partido ante Zverev. /
+                EFE</media:text>
+            <guid>https://www.marca.com/tenis/indian-wells/2023/03/15/64115ffde2704e39168b45c9.html</guid>
+            <pubDate>Wed, 15 Mar 2023 07:10:39 +0100</pubDate>
+        </item>
+        <item>
+            <title>Los aficionados del Madrid y el Liverpool, unidos por una buena causa</title>
+            <description>CRIS contra el cáncer junta a ambas aficiones que visibilizan con sus
+                cánticos el apoyo a la investigación&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/15/6411b771e2704e10468b4585.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/15/6411b771e2704e10468b4585.html</link>
+            <category>Real Madrid</category>
+            <category>Champions League</category>
+            <media:description type="html">CRIS contra el cáncer junta a ambas aficiones que
+                visibilizan con sus cánticos el apoyo a la investigación</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788825913172.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788825913172_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_18bmjkkj"
+                url="https://videos.marca.com/v/0_18bmjkkj-real-madrid-y-liverpool-unidos-por-una-buena-causa" />
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/15/6411b771e2704e10468b4585.html</guid>
+            <pubDate>Wed, 15 Mar 2023 13:18:23 +0100</pubDate>
+        </item>
+        <item>
+            <title>Haaland es historia de la Champions: cinco goles al primer toque... ¡en 38
+                minutos!</title>
+            <description>&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/14/6410eda8268e3e2c1c8b45c4.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/14/6410eda8268e3e2c1c8b45c4.html</link>
+            <category>Champions League</category>
+            <category>Erling Haaland</category>
+            <category>Manchester City</category>
+            <media:description type="html">El delantero noruego del&lt;strong&gt; Manchester City
+                &lt;/strong&gt;igualó en la goleada al &lt;strong&gt;RB Leipzig&lt;/strong&gt; (7-0)
+                el registro de cinco goles en un mismo partido de Champions Leag</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788323559333.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788323559333_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_pg6f0ddv"
+                url="https://videos.marca.com/v/0_pg6f0ddv-haaland-hace-historia-en-champions-cinco-goles-al-primer-toque-en-38-minutos" />
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/14/6410eda8268e3e2c1c8b45c4.html</guid>
+            <pubDate>Tue, 14 Mar 2023 23:30:08 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Oporto roza la prórroga en el 95' con dos palos seguidos: ¡el Inter puede dar
+                gracias!</title>
+            <description>&nbsp;<a
+                    href="https://www.marca.com/futbol/champions-league/2023/03/14/6410f9bd268e3e5f548b45a2.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>marca.com</dc:creator>
+            <link>
+                https://www.marca.com/futbol/champions-league/2023/03/14/6410f9bd268e3e5f548b45a2.html</link>
+            <category>FC Oporto</category>
+            <category>Champions League</category>
+            <media:description type="html">El conjunto portugués se topó dos veces con la madera en
+                apenas 10 segundos cuando el partido estaba a punto de terminar. Dos remates de
+                cabeza, el primero al palo derecho de la po</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788342795879.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788342795879_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_6ex1mflg"
+                url="https://videos.marca.com/v/0_6ex1mflg-el-oporto-rozo-la-prorroga-dos-palos-en-el-tiempo-anadido" />
+            <guid>
+                https://www.marca.com/futbol/champions-league/2023/03/14/6410f9bd268e3e5f548b45a2.html</guid>
+            <pubDate>Tue, 14 Mar 2023 23:51:40 +0100</pubDate>
+        </item>
+        <item>
+            <title>Cristiano estalla tras su primera amarilla en Arabia</title>
+            <description>A pesar de la victoria de su Al-Nassr por 1-3 en la Copa Saudí, el luso
+                tuvo un partido complicado en el que acabó sustituido&nbsp;<a
+                    href="https://www.marca.com/futbol/futbol-internacional/2023/03/14/6410aa9e22601d463a8b459f.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>DAVID SÁNCHEZ R.</dc:creator>
+            <link>
+                https://www.marca.com/futbol/futbol-internacional/2023/03/14/6410aa9e22601d463a8b459f.html</link>
+            <category>fútbol</category>
+            <category>Fútbol Internacional</category>
+            <category>Cristiano Ronaldo</category>
+            <category>Al-Nassr</category>
+            <media:description type="html">A pesar de la victoria de su Al-Nassr por 1-3 en la Copa
+                Saudí, el luso tuvo un partido complicado en el que acabó sustituido</media:description>
+            <media:title type="html">FÚTBOL INTERNACIONAL</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788137456074.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788137456074_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_wgz7q4pg"
+                url="https://videos.marca.com/v/0_wgz7q4pg-cristiano-ronaldo-primera-amarilla-en-arabia-y-cara-de-pocos-amigos-en-el-banquillo" />
+            <guid>
+                https://www.marca.com/futbol/futbol-internacional/2023/03/14/6410aa9e22601d463a8b459f.html</guid>
+            <pubDate>Tue, 14 Mar 2023 18:11:15 +0100</pubDate>
+        </item>
+        <item>
+            <title>Piqué desvela cómo será la copa de la Kings League: "La ida la jugarán las chicas
+                y la vuelta los chicos"</title>
+            <description>El presidente ha pasado por &#039;El Món a RAC 1&#039; y ha hablado de los
+                próximos proyectos&nbsp;<a
+                    href="https://www.marca.com/videojuegos/kings-league/2023/03/14/641087ea46163faf658b45c0.html">
+                Leer </a><img
+                    src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-marca&amp;ci=es-widgetueditorial&amp;si=https://e00-marca.uecdn.es/rss/portada.xml"
+                    alt="" /></description>
+            <dc:creator>MARIO MARTÍN TURRIÓN</dc:creator>
+            <link>
+                https://www.marca.com/videojuegos/kings-league/2023/03/14/641087ea46163faf658b45c0.html</link>
+            <category>deporte - eventos deportivos</category>
+            <category>política - Partidos</category>
+            <category>Videojuegos</category>
+            <category>Kings League</category>
+            <category>Gerard Piqué</category>
+            <media:description type="html">El presidente ha pasado por &#039;El Món a RAC 1&#039; y
+                ha hablado de los próximos proyectos</media:description>
+            <media:title type="html">KINGS LEAGUE</media:title>
+            <media:content
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788048710028.jpg"
+                medium="image" width="1980" height="1320" />
+            <media:thumbnail
+                url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788048710028_150x0.jpg"
+                width="150" height="100" />
+            <media:text></media:text>
+            <media:content type="videofile" idKaltura="0_su21khpr"
+                url="https://videos.marca.com/v/0_su21khpr-pique-desvela-una-de-las-novedades-de-la-queens-league-competicion-mixta" />
+            <guid>
+                https://www.marca.com/videojuegos/kings-league/2023/03/14/641087ea46163faf658b45c0.html</guid>
+            <pubDate>Tue, 14 Mar 2023 18:53:17 +0100</pubDate>
+        </item>
+    </channel>
+</rss>
