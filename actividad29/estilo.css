@@ -3,6 +3,9 @@ body{
     margin-left: 10%;
     margin-right: 10%;
     background-color: beige;
+    background-image: url("imagenes/cat-wet.gif");
+    background-repeat: repeat;
+      
 }
 
 h1{
